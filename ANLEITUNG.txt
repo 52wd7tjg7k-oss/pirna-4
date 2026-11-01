@@ -1,0 +1,10 @@
+PirnaSmart 4.0 – neue App
+
+1. Eigenes GitHub-Repository erstellen (Public, README).
+2. Alle Dateien aus diesem ZIP entpacken und einzeln in das Hauptverzeichnis des neuen Repositories hochladen.
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Nach 1–3 Minuten GitHub-Pages-Link in Safari öffnen.
+5. Teilen > Zum Home-Bildschirm > PirnaSmart 4.0 > Hinzufügen.
+
+Die drei PNG-Icons müssen im HAUPTVERZEICHNIS liegen (nicht in einem Unterordner).
+Die 37 Flächen sind anhand der vier Koordinaten aus der DOCX-Datei eingezeichnet. Die Lange Straße ist als Korridor dargestellt. 9 Ladepunkte stammen aus derselben Liste. Keine Angaben zu freien Stellplätzen, Gebühren oder öffentlich erlaubter Nutzung.
